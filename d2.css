@@ -1,0 +1,80 @@
+*{
+
+   margin:o auto; 
+}
+.body{
+    background-color: rgb(196, 204, 204) !important;
+}
+.carousel-inner img {
+    height: -webkit-fill-available !important;
+}
+.jumbotron{
+    background-color: rgb(64, 52, 136) !important;
+    color: white !important;
+    margin: 0% !important;
+}
+.navbar{
+    background-color: slateblue;
+    margin: 0px !important;
+    font-size: 20px;
+}
+a:link{
+    color: wheat;
+}
+a:visited{
+    color: blanchedalmond;
+}
+.ebar{
+  
+    background-color: rgb(196, 204, 204) !important;
+    text-align: justify;
+    border: 4%; 
+    border-top: 4%;
+    margin:15px;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    
+}
+.equi{
+    float: left;
+    left: 0px;
+    font-size: 3.5em;
+     top:10px;
+
+}
+.but{
+    left:20px;
+    top:10px;
+    
+}
+.parg{
+    top: 100px;
+}
+.footer{
+    margin: 2%;
+}
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%
+  }
+  .fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-youtube {
+    background: rgb(201, 84, 84);
+    color: white;
+  }
+  .fa-instagram {
+    background: #3B5998;
+    color: white;
+  }
