@@ -3,18 +3,19 @@
    margin:o auto; 
 }
 .body{
-    background-color: rgb(196, 204, 204) !important;
+    background-color: rgb(225, 235, 235) !important;
 }
 .carousel-inner img {
     height: -webkit-fill-available !important;
 }
 .jumbotron{
-    background-color: rgb(64, 52, 136) !important;
+    background-image: linear-gradient(rgb(64, 64, 156),rgb(10, 87, 175));
     color: white !important;
     margin: 0% !important;
 }
 .navbar{
-    background-color: slateblue;
+    background-image: linear-gradient(rgb(64, 64, 156),rgb(10, 87, 175));
+    
     margin: 0px !important;
     font-size: 20px;
 }
@@ -26,7 +27,7 @@ a:visited{
 }
 .ebar{
   
-    background-color: rgb(196, 204, 204) !important;
+    background-color: rgb(225, 235, 235) !important;
     text-align: justify;
     border: 4%; 
     border-top: 4%;
